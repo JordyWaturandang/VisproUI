@@ -1,0 +1,10 @@
+C:\Users\watur\source\repos\Design UI\Design UI\bin\Debug\Design UI.exe.config
+C:\Users\watur\source\repos\Design UI\Design UI\bin\Debug\Design UI.exe
+C:\Users\watur\source\repos\Design UI\Design UI\bin\Debug\Design UI.pdb
+C:\Users\watur\source\repos\Design UI\Design UI\obj\Debug\Design UI.csproj.AssemblyReference.cache
+C:\Users\watur\source\repos\Design UI\Design UI\obj\Debug\Design_UI.Form1.resources
+C:\Users\watur\source\repos\Design UI\Design UI\obj\Debug\Design_UI.Properties.Resources.resources
+C:\Users\watur\source\repos\Design UI\Design UI\obj\Debug\Design UI.csproj.GenerateResource.cache
+C:\Users\watur\source\repos\Design UI\Design UI\obj\Debug\Design UI.csproj.CoreCompileInputs.cache
+C:\Users\watur\source\repos\Design UI\Design UI\obj\Debug\Design UI.exe
+C:\Users\watur\source\repos\Design UI\Design UI\obj\Debug\Design UI.pdb
